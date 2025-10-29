@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.012F
+test_cases:
+- expected_values:
+    A1_RANGE: 549.01961
+  response: 7E803412F8C

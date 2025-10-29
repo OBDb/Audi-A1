@@ -1,5 +1,5 @@
 { "commands": [
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"01": "2F"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"01": "2F"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
   "signals": [
     {"id": "A1_RANGE", "path": "Fuel.Generic", "fmt": { "len": 8, "max": 1000, "mul": 1000, "div": 255, "nullmin": 0, "unit": "kilometers" }, "name": "Range remaining", "suggestedMetric": "fuelRange"}
   ]}
