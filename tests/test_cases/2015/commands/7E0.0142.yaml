@@ -1,0 +1,14 @@
+command_id: 7E0.0142
+test_cases:
+- expected_values:
+    VPWR: 12.321
+  response: '7E80441423021'
+- expected_values:
+    VPWR: 14.818
+  response: 7E804414239E2
+- expected_values:
+    VPWR: 14.913
+  response: 7E80441423A41
+- expected_values:
+    VPWR: 14.936
+  response: 7E80441423A58
