@@ -1,0 +1,8 @@
+command_id: 713.77D.221804|fc=1
+test_cases:
+- expected_values:
+    A1_STEER_WHEEL_ANGLE_ABS: -21
+  response: |-
+    77D1011621804000000
+    77D21020008FFFAFFFA
+    77D22FFD0FFD3AAAAAA

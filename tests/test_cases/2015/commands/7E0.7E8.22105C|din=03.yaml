@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22105C|din=03
+test_cases:
+- expected_values:
+    A1_BRAKE_P: 53.9
+  response: 7E80562105C021B
