@@ -1,0 +1,7 @@
+command_id: 713.77D.221816|fc=1
+test_cases:
+- expected_values:
+    A1_BRAKE_P_SNS: 1.65
+  response: |-
+    77D10086218160000A5
+    77D210019AAAAAAAAAA
