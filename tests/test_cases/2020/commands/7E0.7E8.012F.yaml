@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.012F
 test_cases:
 - expected_values:
-    A1_RANGE: 666.66667
+    A1_FLI_PCT: 66.66667
   response: 7E803412FAA
