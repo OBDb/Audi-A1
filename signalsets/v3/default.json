@@ -126,7 +126,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"01": "2F"}, "freq": 5, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2018, 2019, 2021], "from": 2024 },
   "signals": [
-    {"id": "A1_RANGE", "path": "Fuel.Generic", "fmt": { "len": 8, "max": 1000, "mul": 1000, "div": 255, "nullmin": 0, "unit": "kilometers" }, "name": "Range remaining", "suggestedMetric": "fuelRange"}
+    {"id": "A1_FLI_PCT", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "nullmin": 0, "unit": "percent" }, "name": "Fuel tank level", "suggestedMetric": "fuelTankLevel"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "028D"}, "freq": 5,
   "signals": [
