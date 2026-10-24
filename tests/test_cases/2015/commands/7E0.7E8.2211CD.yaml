@@ -1,11 +1,20 @@
 command_id: 7E0.7E8.2211CD
 test_cases:
 - expected_values:
-    A1_TCO_1_SYS: -40
+    A1_TCO_1_SYS: null
   response: 7E8056211CD0000
 - expected_values:
-    A1_TCO_1_SYS: -13
+    A1_TCO_1_SYS: 9.80078
+  response: 7E8056211CD09CD
+- expected_values:
+    A1_TCO_1_SYS: 19.92188
+  response: 7E8056211CD13EC
+- expected_values:
+    A1_TCO_1_SYS: 27.98828
   response: 7E8056211CD1BFD
 - expected_values:
-    A1_TCO_1_SYS: 14
+    A1_TCO_1_SYS: 29
+  response: 7E8056211CD1D00
+- expected_values:
+    A1_TCO_1_SYS: 54.39844
   response: 7E8056211CD3666

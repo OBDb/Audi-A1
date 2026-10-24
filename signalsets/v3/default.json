@@ -934,7 +934,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BD"}, "freq": 5, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
-    {"id": "A1_EOT_ECM", "path": "Engine", "fmt": { "len": 16, "max": 200, "min": -40, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Engine oil temperature, engine control module"}
+    {"id": "A1_EOT_ECM", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Engine control module value 11BD, raw 16-bit"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
@@ -966,7 +966,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CD"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
-    {"id": "A1_TCO_1_SYS", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "TCO_1_SYS"}
+    {"id": "A1_TCO_1_SYS", "path": "Engine", "fmt": { "len": 16, "max": 215, "div": 256, "nullmin": 0, "unit": "celsius" }, "name": "TCO_1_SYS"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11CE"}, "freq": 1,
   "signals": [
@@ -1378,7 +1378,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "13F2"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
-    {"id": "A1_IGA_CYL_KNK_0", "path": "Engine", "fmt": { "len": 8, "max": 47.625, "min": -48, "mul": 3, "div": 8, "add": -48, "unit": "degrees" }, "name": "IGA_CYL_KNK, 0"}
+    {"id": "A1_IGA_CYL_KNK_0", "path": "Engine", "fmt": { "len": 32, "max": 4294967295, "unit": "scalar" }, "name": "Engine control module value 13F2, raw 32-bit"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "13F3"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
@@ -1698,7 +1698,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1626"}, "freq": 5, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
-    {"id": "A1_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Radiator output coolant temp: actual"}
+    {"id": "A1_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Radiator output coolant temp: actual, raw 16-bit"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "162D"}, "freq": 5, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
