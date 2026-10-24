@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2213F2
 test_cases:
 - expected_values:
-    A1_IGA_CYL_KNK_0: -48
+    A1_IGA_CYL_KNK_0: 165349
   response: 7E8076213F2000285E5
 - expected_values:
-    A1_IGA_CYL_KNK_0: -48
+    A1_IGA_CYL_KNK_0: 165375
   response: 7E8076213F2000285FF
 - expected_values:
-    A1_IGA_CYL_KNK_0: -48
+    A1_IGA_CYL_KNK_0: 165376
   response: 7E8076213F200028600
 - expected_values:
-    A1_IGA_CYL_KNK_0: -48
+    A1_IGA_CYL_KNK_0: 165377
   response: 7E8076213F200028601
