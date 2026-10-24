@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221116
+test_cases:
+- expected_values:
+    A1_PQ35_COOL_FAN_1_DUTY: 10
+  response: 7E80562111603E8
+- expected_values:
+    A1_PQ35_COOL_FAN_1_DUTY: 15.27
+  response: 7E80562111605F7
+- expected_values:
+    A1_PQ35_COOL_FAN_1_DUTY: 25.67
+  response: 7E8056211160A07
+- expected_values:
+    A1_PQ35_COOL_FAN_1_DUTY: 37.98
+  response: 7E8056211160ED6

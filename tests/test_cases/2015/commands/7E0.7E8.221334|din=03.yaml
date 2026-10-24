@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221334|din=03
+test_cases:
+- expected_values:
+    A1_HIGH_P_EGR_ACTUATOR: 0
+  response: '7E8056213340000'
+- expected_values:
+    A1_HIGH_P_EGR_ACTUATOR: -7.85
+  response: 7E805621334FCEF
+- expected_values:
+    A1_HIGH_P_EGR_ACTUATOR: -3.39
+  response: 7E805621334FEAD

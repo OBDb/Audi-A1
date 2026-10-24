@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221092
+test_cases:
+- expected_values:
+    A1_CAM_SPD_7E0: 0
+  response: '7E8056210920000'

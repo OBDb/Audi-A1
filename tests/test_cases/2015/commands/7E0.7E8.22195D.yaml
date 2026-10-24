@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22195D
+test_cases:
+- expected_values:
+    A1_BRAKE_P_7E0: 0
+  response: 7E80562195D0000
+- expected_values:
+    A1_BRAKE_P_7E0: 0.2
+  response: 7E80562195D0014
+- expected_values:
+    A1_BRAKE_P_7E0: -0.02
+  response: 7E80562195DFFFE
+- expected_values:
+    A1_BRAKE_P_7E0: -0.01
+  response: 7E80562195DFFFF

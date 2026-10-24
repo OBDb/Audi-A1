@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2214C8
+test_cases:
+- expected_values:
+    A1_PQ35_PRE_INJ_2_START: 0
+  response: 7E8056214C80000
+- expected_values:
+    A1_PQ35_PRE_INJ_2_START: 5.08
+  response: 7E8056214C800FE
+- expected_values:
+    A1_PQ35_PRE_INJ_2_START: 37.56
+  response: 7E8056214C80756

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211BC
+test_cases:
+- expected_values:
+    A1_PQ35_OIL_LVL: 0
+  response: 7E8056211BC0000
+- expected_values:
+    A1_PQ35_OIL_LVL: 57.6
+  response: 7E8056211BC3840
+- expected_values:
+    A1_PQ35_OIL_LVL: 60.4
+  response: 7E8056211BC3AFC
+- expected_values:
+    A1_PQ35_OIL_LVL: 76.936
+  response: 7E8056211BC4B22

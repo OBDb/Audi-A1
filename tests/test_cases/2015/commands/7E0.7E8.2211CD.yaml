@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211CD
+test_cases:
+- expected_values:
+    A1_TCO_1_SYS: -40
+  response: 7E8056211CD0000
+- expected_values:
+    A1_TCO_1_SYS: -13
+  response: 7E8056211CD1BFD
+- expected_values:
+    A1_TCO_1_SYS: 14
+  response: 7E8056211CD3666

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2214CD
+test_cases:
+- expected_values:
+    A1_PQ35_POST_INJ_2_DURATION: 0
+  response: 7E8056214CD0000
+- expected_values:
+    A1_PQ35_POST_INJ_2_DURATION: 0.3824
+  response: 7E8056214CD03BC
+- expected_values:
+    A1_PQ35_POST_INJ_2_DURATION: 0.4124
+  response: 7E8056214CD0407
+- expected_values:
+    A1_PQ35_POST_INJ_2_DURATION: 0.476
+  response: 7E8056214CD04A6
+- expected_values:
+    A1_PQ35_POST_INJ_2_DURATION: 0.508
+  response: 7E8056214CD04F6
+- expected_values:
+    A1_PQ35_POST_INJ_2_DURATION: 0.628
+  response: 7E8056214CD0622

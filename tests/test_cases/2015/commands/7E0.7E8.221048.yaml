@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221048
+test_cases:
+- expected_values:
+    A1_AC_COMP_REFRIGERANT_P: 4600
+  response: 7E80562104808FC
+- expected_values:
+    A1_AC_COMP_REFRIGERANT_P: 8200
+  response: '7E8056210481004'
+- expected_values:
+    A1_AC_COMP_REFRIGERANT_P: 9600
+  response: 7E80562104812C0

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221149
+test_cases:
+- expected_values:
+    A1_MISFIRES_1000REV_C4: 0
+  response: '7E8056211490000'
+- expected_values:
+    A1_MISFIRES_1000REV_C4: 1019
+  response: 7E80562114903FB
+- expected_values:
+    A1_MISFIRES_1000REV_C4: 2399
+  response: 7E805621149095F

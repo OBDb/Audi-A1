@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221231
+test_cases:
+- expected_values:
+    A1_MIN_OIL_LEVEL: 261.384
+  response: 7E805621231FF42
+- expected_values:
+    A1_MIN_OIL_LEVEL: 261.432
+  response: 7E805621231FF4E
+- expected_values:
+    A1_MIN_OIL_LEVEL: 261.436
+  response: 7E805621231FF4F
+- expected_values:
+    A1_MIN_OIL_LEVEL: 261.464
+  response: 7E805621231FF56

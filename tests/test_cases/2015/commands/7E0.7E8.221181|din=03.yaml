@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221181|din=03
+test_cases:
+- expected_values:
+    A1_HIGH_P_TURBOCHARGER: 5
+  response: 7E80562118101F4
+- expected_values:
+    A1_HIGH_P_TURBOCHARGER: 38.54
+  response: 7E8056211810F0E
+- expected_values:
+    A1_HIGH_P_TURBOCHARGER: 89.95
+  response: '7E8056211812323'

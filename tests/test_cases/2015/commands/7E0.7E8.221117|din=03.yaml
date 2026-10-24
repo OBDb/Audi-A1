@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221117|din=03
+test_cases:
+- expected_values:
+    A1_CLT_FAN_1_ACTIVATION_1117: 10
+  response: 7E80562111703E8
+- expected_values:
+    A1_CLT_FAN_1_ACTIVATION_1117: 22.26
+  response: 7E80562111708B2
+- expected_values:
+    A1_CLT_FAN_1_ACTIVATION_1117: 32.29
+  response: 7E8056211170C9D

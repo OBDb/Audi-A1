@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221148
+test_cases:
+- expected_values:
+    A1_MISFIRES_1000REV_C3: 886
+  response: '7E8056211480376'
+- expected_values:
+    A1_MISFIRES_1000REV_C3: 3836
+  response: 7E8056211480EFC
+- expected_values:
+    A1_MISFIRES_1000REV_C3: 4031
+  response: 7E8056211480FBF
+- expected_values:
+    A1_MISFIRES_1000REV_C3: 4098
+  response: '7E8056211481002'
+- expected_values:
+    A1_MISFIRES_1000REV_C3: 5200
+  response: '7E8056211481450'

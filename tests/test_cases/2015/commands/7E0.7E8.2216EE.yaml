@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2216EE
+test_cases:
+- expected_values:
+    A1_BOOST_P_ACTUATOR_CMD: 61.43692
+  response: 7E8056216EE13A9
+- expected_values:
+    A1_BOOST_P_ACTUATOR_CMD: 81.2852
+  response: 7E8056216EE1A03
+- expected_values:
+    A1_BOOST_P_ACTUATOR_CMD: 90.53797
+  response: 7E8056216EE1CF9
+- expected_values:
+    A1_BOOST_P_ACTUATOR_CMD: 93.73616
+  response: 7E8056216EE1DFF
+- expected_values:
+    A1_BOOST_P_ACTUATOR_CMD: 95.84794
+  response: 7E8056216EE1EAC

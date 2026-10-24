@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22115A
+test_cases:
+- expected_values:
+    A1_PARTICLE_FLT_FUEL: 0.18
+  response: 7E80562115A0012
+- expected_values:
+    A1_PARTICLE_FLT_FUEL: 17.93
+  response: 7E80562115A0701
+- expected_values:
+    A1_PARTICLE_FLT_FUEL: 20.47
+  response: 7E80562115A07FF
+- expected_values:
+    A1_PARTICLE_FLT_FUEL: 23.49
+  response: 7E80562115A092D

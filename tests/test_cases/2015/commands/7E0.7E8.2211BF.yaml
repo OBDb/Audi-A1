@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211BF
+test_cases:
+- expected_values:
+    A1_PQ35_FUEL_P_REG: 6.51
+  response: 7E8056211BF028B
+- expected_values:
+    A1_PQ35_FUEL_P_REG: 7.67
+  response: 7E8056211BF02FF
+- expected_values:
+    A1_PQ35_FUEL_P_REG: 7.68
+  response: 7E8056211BF0300
+- expected_values:
+    A1_PQ35_FUEL_P_REG: 34.52
+  response: 7E8056211BF0D7C
