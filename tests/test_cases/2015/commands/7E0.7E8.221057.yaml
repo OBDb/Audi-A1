@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221057
+test_cases:
+- expected_values:
+    A1_PQ35_CHG_P: 4.246
+  response: '7E8056210571096'
+- expected_values:
+    A1_PQ35_CHG_P: 5.144
+  response: '7E8056210571418'
+- expected_values:
+    A1_PQ35_CHG_P: 5.371
+  response: 7E80562105714FB
+- expected_values:
+    A1_PQ35_CHG_P: 7.936
+  response: 7E8056210571F00
+- expected_values:
+    A1_PQ35_CHG_P: 12.693
+  response: '7E8056210573195'

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211AC
+test_cases:
+- expected_values:
+    A1_MAF_THROUGH_THROTTLE: 0
+  response: 7E8056211AC0000
+- expected_values:
+    A1_MAF_THROUGH_THROTTLE: 281.1
+  response: 7E8056211AC0AFB
+- expected_values:
+    A1_MAF_THROUGH_THROTTLE: 304.9
+  response: 7E8056211AC0BE9
+- expected_values:
+    A1_MAF_THROUGH_THROTTLE: 934.9
+  response: 7E8056211AC2485

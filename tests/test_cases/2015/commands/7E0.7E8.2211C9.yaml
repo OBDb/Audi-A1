@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211C9
+test_cases:
+- expected_values:
+    A1_FUEL_PMP_ADPT: 6550.4
+  response: 7E8056211C9FFE0
+- expected_values:
+    A1_FUEL_PMP_ADPT: 6550.6
+  response: 7E8056211C9FFE2
+- expected_values:
+    A1_FUEL_PMP_ADPT: 6551.3
+  response: 7E8056211C9FFE9

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211BD
+test_cases:
+- expected_values:
+    A1_EOT_ECM: -40
+  response: 7E8056211BD0000
+- expected_values:
+    A1_EOT_ECM: 200
+  response: 7E8056211BD25FF
+- expected_values:
+    A1_EOT_ECM: 200
+  response: 7E8056211BD2966
+- expected_values:
+    A1_EOT_ECM: 200
+  response: 7E8056211BD2C7B

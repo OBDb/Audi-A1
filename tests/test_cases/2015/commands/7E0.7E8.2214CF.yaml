@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2214CF
+test_cases:
+- expected_values:
+    A1_PQ35_MAIN_INJ_DURATION: 0
+  response: 7E8056214CF0000
+- expected_values:
+    A1_PQ35_MAIN_INJ_DURATION: 0.2036
+  response: 7E8056214CF01FD
+- expected_values:
+    A1_PQ35_MAIN_INJ_DURATION: 0.2488
+  response: 7E8056214CF026E
+- expected_values:
+    A1_PQ35_MAIN_INJ_DURATION: 0.706
+  response: 7E8056214CF06E5

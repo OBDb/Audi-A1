@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2210F9
+test_cases:
+- expected_values:
+    A1_EXH_GAS_T_SENS_4_7E0: 20.4
+  response: 7E8056210F90B77
+- expected_values:
+    A1_EXH_GAS_T_SENS_4_7E0: 110.8
+  response: 7E8056210F90EFF
+- expected_values:
+    A1_EXH_GAS_T_SENS_4_7E0: 121.6
+  response: 7E8056210F90F6B
+- expected_values:
+    A1_EXH_GAS_T_SENS_4_7E0: 162.1
+  response: 7E8056210F91100
+- expected_values:
+    A1_EXH_GAS_T_SENS_4_7E0: 342.8
+  response: 7E8056210F9180F

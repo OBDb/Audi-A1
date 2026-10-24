@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22116A
+test_cases:
+- expected_values:
+    A1_PQ35_FUEL_P_HIGH_CMD: 280000
+  response: 7E80562116A0AF0
+- expected_values:
+    A1_PQ35_FUEL_P_HIGH_CMD: 383500
+  response: 7E80562116A0EFB
+- expected_values:
+    A1_PQ35_FUEL_P_HIGH_CMD: 537600
+  response: 7E80562116A1500
+- expected_values:
+    A1_PQ35_FUEL_P_HIGH_CMD: 547600
+  response: 7E80562116A1564
+- expected_values:
+    A1_PQ35_FUEL_P_HIGH_CMD: 1672100
+  response: 7E80562116A4151

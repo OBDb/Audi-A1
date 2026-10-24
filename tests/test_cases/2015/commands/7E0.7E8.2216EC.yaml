@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2216EC
+test_cases:
+- expected_values:
+    A1_CHG_P_REGULATOR_LO: 0
+  response: 7E8056216EC0000
+- expected_values:
+    A1_CHG_P_REGULATOR_LO: 292.8
+  response: 7E8056216EC05B8
+- expected_values:
+    A1_CHG_P_REGULATOR_LO: -1.8
+  response: 7E8056216ECFFF7
+- expected_values:
+    A1_CHG_P_REGULATOR_LO: -0.2
+  response: 7E8056216ECFFFF

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2211C8
+test_cases:
+- expected_values:
+    A1_LOW_FUEL_P_ACT: 206.6
+  response: 7E8056211C80812
+- expected_values:
+    A1_LOW_FUEL_P_ACT: 251.5
+  response: 7E8056211C809D3
+- expected_values:
+    A1_LOW_FUEL_P_ACT: 502.2
+  response: 7E8056211C8139E
+- expected_values:
+    A1_LOW_FUEL_P_ACT: 655.2
+  response: 7E8056211C81998
+- expected_values:
+    A1_LOW_FUEL_P_ACT: 679.5
+  response: 7E8056211C81A8B
+- expected_values:
+    A1_LOW_FUEL_P_ACT: 696.4
+  response: 7E8056211C81B34
+- expected_values:
+    A1_LOW_FUEL_P_ACT: 699.1
+  response: 7E8056211C81B4F
+- expected_values:
+    A1_LOW_FUEL_P_ACT: 6553.5
+  response: 7E8056211C8FFFF

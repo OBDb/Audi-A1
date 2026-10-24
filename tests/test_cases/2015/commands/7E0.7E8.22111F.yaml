@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22111F
+test_cases:
+- expected_values:
+    A1_PREHEAT_TIME: 0
+  response: 7E80562111F0000
+- expected_values:
+    A1_PREHEAT_TIME: 900
+  response: 7E80562111F0009
+- expected_values:
+    A1_PREHEAT_TIME: 1100
+  response: 7E80562111F000B
+- expected_values:
+    A1_PREHEAT_TIME: 1400
+  response: 7E80562111F000E

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2213FC|fc=1
+test_cases:
+- expected_values:
+    A1_KNOCK_SENS_V_CYL_2: 0
+  response: 7E8076213FC00003C1C
+- expected_values:
+    A1_KNOCK_SENS_V_CYL_2: 0
+  response: 7E8076213FC00003C26
+- expected_values:
+    A1_KNOCK_SENS_V_CYL_2: 0
+  response: 7E8076213FC00003C31

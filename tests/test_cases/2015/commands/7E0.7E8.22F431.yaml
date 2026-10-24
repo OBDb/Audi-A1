@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    A1_CLR_DIST: 1029
+  response: 7E80562F4310405
+- expected_values:
+    A1_CLR_DIST: 1254
+  response: 7E80562F43104E6
+- expected_values:
+    A1_CLR_DIST: 1288
+  response: 7E80562F4310508

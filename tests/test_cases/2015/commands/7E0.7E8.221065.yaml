@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221065
+test_cases:
+- expected_values:
+    A1_CYL_HEAD_T: 388.88
+  response: 7E805621065126C
+- expected_values:
+    A1_CYL_HEAD_T: 415.16
+  response: 7E80562106512FE
+- expected_values:
+    A1_CYL_HEAD_T: 784.7
+  response: 7E8056210651B03
+- expected_values:
+    A1_CYL_HEAD_T: 2658.68
+  response: 7E80562106543AE

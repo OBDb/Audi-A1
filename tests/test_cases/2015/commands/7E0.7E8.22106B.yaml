@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22106B
+test_cases:
+- expected_values:
+    A1_PQ35_LIM_TRQ: 63.3
+  response: 7E80562106B0279
+- expected_values:
+    A1_PQ35_LIM_TRQ: 134.4
+  response: 7E80562106B0540
+- expected_values:
+    A1_PQ35_LIM_TRQ: 153.6
+  response: 7E80562106B0600
+- expected_values:
+    A1_PQ35_LIM_TRQ: 255.9
+  response: 7E80562106B09FF
+- expected_values:
+    A1_PQ35_LIM_TRQ: 1000
+  response: 7E80562106B2710
