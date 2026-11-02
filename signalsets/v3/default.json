@@ -71,7 +71,7 @@
   "signals": [
     {"id": "A1_AAT", "path": "Climate", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Ambient air temperature", "description": "More testing of this parameter is needed"}
   ]},
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "2206"}, "freq": 30, "dbgfilter": { "to": 2014, "from": 2016 },
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "2206"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
     {"id": "A1_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -124,7 +124,7 @@
     {"id": "A1_PARKING_BRAKE_AIR",     "path": "Control", "fmt": {           "len": 16, "max": 65.53, "div": 1000, "unit": "millimeters" }, "name": "Parking brake, air gap - left"},
     {"id": "A1_PARKING_BRAKE_AIR_GAP", "path": "Control", "fmt": {"bix": 16, "len": 16, "max": 65.53, "div": 1000, "unit": "millimeters" }, "name": "Parking brake, air gap - right"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"01": "2F"}, "freq": 5, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2018, 2019, 2021], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"01": "2F"}, "freq": 1, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2018, 2019, 2021], "from": 2024 },
   "signals": [
     {"id": "A1_FLI_PCT", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "nullmin": 0, "unit": "percent" }, "name": "Fuel tank level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -1508,7 +1508,7 @@
   "signals": [
     {"id": "A1_RATED_DRIVE_TQ", "path": "Engine", "fmt": { "len": 32, "max": 214748364, "min": -214748364, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Rated drive torque"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "14B4"}, "freq": 30,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "14B4"}, "freq": 1,
   "signals": [
     {"id": "A1_FUEL_LEVEL_INPUT_V1", "path": "Fuel", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "liters" }, "name": "Fuel level input, v1", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -3018,7 +3018,7 @@
   "signals": [
     {"id": "A1_MIL_DIST", "path": "DTCs", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance traveled while mil was activated"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F42F"}, "freq": 30,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F42F"}, "freq": 1,
   "signals": [
     {"id": "A1_FLI_INPUT", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level input %", "suggestedMetric": "fuelTankLevel"}
   ]},
