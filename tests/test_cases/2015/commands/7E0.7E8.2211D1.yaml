@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211D1
+test_cases:
+- expected_values:
+    A1_BRAKE_BOOSTER_RAW_P: 5893
+  response: 7E8056211D11705
+- expected_values:
+    A1_BRAKE_BOOSTER_RAW_P: 5909
+  response: 7E8056211D11715
+- expected_values:
+    A1_BRAKE_BOOSTER_RAW_P: 6909
+  response: 7E8056211D11AFD
+- expected_values:
+    A1_BRAKE_BOOSTER_RAW_P: 8972
+  response: 7E8056211D1230C

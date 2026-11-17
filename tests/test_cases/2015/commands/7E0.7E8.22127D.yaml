@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22127D
+test_cases:
+- expected_values:
+    A1_VARIABLE_VLV_TIM_INT_1: 64.38898
+  response: 7E80562127D526B
+- expected_values:
+    A1_VARIABLE_VLV_TIM_INT_1: 69.53424
+  response: 7E80562127D5901
+- expected_values:
+    A1_VARIABLE_VLV_TIM_INT_1: 71.82
+  response: 7E80562127D5BEE
+- expected_values:
+    A1_VARIABLE_VLV_TIM_INT_1: 91.89139
+  response: 7E80562127D759F

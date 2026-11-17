@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221512
+test_cases:
+- expected_values:
+    A1_ECT_MIN: 21.75
+  response: 7E8046215125D

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210EB
+test_cases:
+- expected_values:
+    A1_CRANK_ROT_ANG: 37.4
+  response: 7E8056210EB0176
+- expected_values:
+    A1_CRANK_ROT_ANG: 49.9
+  response: 7E8056210EB01F3
+- expected_values:
+    A1_CRANK_ROT_ANG: 51.6
+  response: 7E8056210EB0204
+- expected_values:
+    A1_CRANK_ROT_ANG: 54.6
+  response: 7E8056210EB0222

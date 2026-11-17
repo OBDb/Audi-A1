@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2215C0
+test_cases:
+- expected_values:
+    A1_IAT_INT_MANIFOLD_RAW: 21
+  response: 7E8046215C05C
+- expected_values:
+    A1_IAT_INT_MANIFOLD_RAW: 23.25
+  response: 7E8046215C05F
+- expected_values:
+    A1_IAT_INT_MANIFOLD_RAW: 49.5
+  response: 7E8046215C082

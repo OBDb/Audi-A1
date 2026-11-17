@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22120E
+test_cases:
+- expected_values:
+    A1_KNOCK_SENS_CYL_1: 0.99889
+  response: 7E80562120E00CE
+- expected_values:
+    A1_KNOCK_SENS_CYL_1: 1.28498
+  response: 7E80562120E0109
+- expected_values:
+    A1_KNOCK_SENS_CYL_1: 2.40025
+  response: 7E80562120E01EF
+- expected_values:
+    A1_KNOCK_SENS_CYL_1: 6.63342
+  response: 7E80562120E0558

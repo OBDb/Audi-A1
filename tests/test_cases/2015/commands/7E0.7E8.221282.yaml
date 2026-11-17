@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221282
+test_cases:
+- expected_values:
+    A1_EXHAUST_GAS_T_BEFORE_CATALYST: 316.79
+  response: 7E80562128263C0
+- expected_values:
+    A1_EXHAUST_GAS_T_BEFORE_CATALYST: 359.07
+  response: 7E8056212826C02
+- expected_values:
+    A1_EXHAUST_GAS_T_BEFORE_CATALYST: 368.97
+  response: 7E8056212826DF1
+- expected_values:
+    A1_EXHAUST_GAS_T_BEFORE_CATALYST: 452.99
+  response: 7E8056212827E5A

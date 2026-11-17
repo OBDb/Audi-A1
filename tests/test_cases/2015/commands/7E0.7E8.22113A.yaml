@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22113A
+test_cases:
+- expected_values:
+    A1_LONG_TERM_THROTTLE: 1.03479
+  response: 7E80562113A423A
+- expected_values:
+    A1_LONG_TERM_THROTTLE: 1.03644
+  response: 7E80562113A4255
+- expected_values:
+    A1_LONG_TERM_THROTTLE: 1.04266
+  response: 7E80562113A42BB

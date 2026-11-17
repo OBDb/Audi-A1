@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22128A
+test_cases:
+- expected_values:
+    A1_FUEL_T: 32.25
+  response: 7E80462128A6B
+- expected_values:
+    A1_FUEL_T: 49.5
+  response: 7E80462128A82
+- expected_values:
+    A1_FUEL_T: 81
+  response: 7E80462128AAC

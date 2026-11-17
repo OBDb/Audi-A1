@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22171B
+test_cases:
+- expected_values:
+    A1_BASIC_CORR_FACTOR_3: 1.01332
+  response: 7E80562171B206E
+- expected_values:
+    A1_BASIC_CORR_FACTOR_3: 1.01344
+  response: 7E80562171B206F
+- expected_values:
+    A1_BASIC_CORR_FACTOR_3: 1.01356
+  response: 7E80562171B2070
+- expected_values:
+    A1_BASIC_CORR_FACTOR_3: 1.01368
+  response: 7E80562171B2071

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2212B0|fc=1,c=17
+test_cases:
+- expected_values:
+    A1_ACCELERATION_29BIT_7E0: 0
+  response: 7E8056212B00000
+- expected_values:
+    A1_ACCELERATION_29BIT_7E0: 0.02
+  response: 7E8056212B00014
+- expected_values:
+    A1_ACCELERATION_29BIT_7E0: -0.047
+  response: 7E8056212B0FFD1
+- expected_values:
+    A1_ACCELERATION_29BIT_7E0: -0.002
+  response: 7E8056212B0FFFE

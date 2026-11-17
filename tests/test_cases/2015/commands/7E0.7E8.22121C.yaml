@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22121C
+test_cases:
+- expected_values:
+    A1_AIR_FILLING: 15.7269
+  response: 7E80562121C029F
+- expected_values:
+    A1_AIR_FILLING: 17.95351
+  response: 7E80562121C02FE
+- expected_values:
+    A1_AIR_FILLING: 18.04726
+  response: 7E80562121C0302
+- expected_values:
+    A1_AIR_FILLING: 79.90014
+  response: 7E80562121C0D51
