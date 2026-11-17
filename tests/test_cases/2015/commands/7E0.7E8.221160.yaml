@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221160
+test_cases:
+- expected_values:
+    A1_ODO_HD: 152927.022
+  response: 7E807621160091D7B2E
+- expected_values:
+    A1_ODO_HD: 152932.823
+  response: 7E807621160091D91D7
+- expected_values:
+    A1_ODO_HD: 152933.12
+  response: 7E807621160091D9300
+- expected_values:
+    A1_ODO_HD: 152935.525
+  response: 7E807621160091D9C65

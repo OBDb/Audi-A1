@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221216
+test_cases:
+- expected_values:
+    A1_REL_LOAD: 17.50991
+  response: 7E80562121602EB
+- expected_values:
+    A1_REL_LOAD: 17.86151
+  response: 7E80562121602FA
+- expected_values:
+    A1_REL_LOAD: 18.04904
+  response: '7E8056212160302'
+- expected_values:
+    A1_REL_LOAD: 65.04685
+  response: 7E8056212160AD7

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210BE
+test_cases:
+- expected_values:
+    A1_REQ_TQ_AMOUNT: 1.5
+  response: 7E8056210BE000F
+- expected_values:
+    A1_REQ_TQ_AMOUNT: 4.5
+  response: 7E8056210BE002D

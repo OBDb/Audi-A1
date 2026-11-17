@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22128C
+test_cases:
+- expected_values:
+    A1_AVG_INJ_TIME: 0.1772
+  response: 7E80762128C000001BB
+- expected_values:
+    A1_AVG_INJ_TIME: 0.3084
+  response: 7E80762128C00000303
+- expected_values:
+    A1_AVG_INJ_TIME: 0.6048
+  response: 7E80762128C000005E8
+- expected_values:
+    A1_AVG_INJ_TIME: 0.9768
+  response: 7E80762128C0000098A

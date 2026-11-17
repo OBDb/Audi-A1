@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211DC
+test_cases:
+- expected_values:
+    A1_INT_MANIFOLD_P_RAW: 0.85938
+  response: 7E8056211DC0B65
+- expected_values:
+    A1_INT_MANIFOLD_P_RAW: 1.17188
+  response: 7E8056211DC0F05
+- expected_values:
+    A1_INT_MANIFOLD_P_RAW: 2.26562
+  response: 7E8056211DC1DF2
+- expected_values:
+    A1_INT_MANIFOLD_P_RAW: 3.90625
+  response: 7E8056211DC3245

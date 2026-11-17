@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22136E
+test_cases:
+- expected_values:
+    A1_CAM_ADJ_INT_BANK_1_ACT: 1.1875
+  response: 7E80562136E0098
+- expected_values:
+    A1_CAM_ADJ_INT_BANK_1_ACT: 21.95312
+  response: 7E80562136E0AFA
+- expected_values:
+    A1_CAM_ADJ_INT_BANK_1_ACT: 22
+  response: 7E80562136E0B00
+- expected_values:
+    A1_CAM_ADJ_INT_BANK_1_ACT: -7.33594
+  response: 7E80562136EFC55

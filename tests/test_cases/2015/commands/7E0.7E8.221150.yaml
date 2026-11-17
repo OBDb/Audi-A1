@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221150
+test_cases:
+- expected_values:
+    A1_MISFIRES_C3: 38383
+  response: 7E80562115095EF
+- expected_values:
+    A1_MISFIRES_C3: 38384
+  response: 7E80562115095F0
+- expected_values:
+    A1_MISFIRES_C3: 38385
+  response: 7E80562115095F1

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22127B
+test_cases:
+- expected_values:
+    A1_CAM_ADJ_EXH: 6.2501
+  response: 7E80562127B1000
+- expected_values:
+    A1_CAM_ADJ_EXH: 27.50439
+  response: 7E80562127B4669
+- expected_values:
+    A1_CAM_ADJ_EXH: 31.6289
+  response: 7E80562127B50F8
+- expected_values:
+    A1_CAM_ADJ_EXH: 45.21248
+  response: 7E80562127B73BE

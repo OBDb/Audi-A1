@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221004
+test_cases:
+- expected_values:
+    A1_AAT_V2: 0.20312
+  response: 7E805621004001A
+- expected_values:
+    A1_AAT_V2: 2.05469
+  response: '7E8056210040107'
+- expected_values:
+    A1_AAT_V2: -1
+  response: 7E805621004FF80
+- expected_values:
+    A1_AAT_V2: -0.09375
+  response: 7E805621004FFF4

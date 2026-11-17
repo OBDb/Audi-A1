@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2215C1
+test_cases:
+- expected_values:
+    A1_IAT_BEFORE_THROTTLE: 24.75
+  response: 7E8046215C161
+- expected_values:
+    A1_IAT_BEFORE_THROTTLE: 54
+  response: 7E8046215C188

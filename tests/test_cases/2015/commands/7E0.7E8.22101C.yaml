@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22101C
+test_cases:
+- expected_values:
+    A1_ALTERNATOR_LOAD: 22.57
+  response: 7E80562101C08D1
+- expected_values:
+    A1_ALTERNATOR_LOAD: 25.79
+  response: 7E80562101C0A13
+- expected_values:
+    A1_ALTERNATOR_LOAD: 54.79
+  response: 7E80562101C1567

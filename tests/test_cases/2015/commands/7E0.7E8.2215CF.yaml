@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2215CF
+test_cases:
+- expected_values:
+    A1_LONGITUDINAL_ACCEL: 0.031
+  response: 7E8056215CF001F
+- expected_values:
+    A1_LONGITUDINAL_ACCEL: 0.5
+  response: 7E8056215CF01F4
+- expected_values:
+    A1_LONGITUDINAL_ACCEL: 0.75
+  response: 7E8056215CF02EE
+- expected_values:
+    A1_LONGITUDINAL_ACCEL: -0.25
+  response: 7E8056215CFFF06
+- expected_values:
+    A1_LONGITUDINAL_ACCEL: -0.125
+  response: 7E8056215CFFF83
