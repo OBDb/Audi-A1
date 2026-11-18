@@ -13,6 +13,12 @@ test_cases:
     A1_FLI: 36
   response: '77E0462220624'
 - expected_values:
+    A1_FLI: 37
+  response: '77E0462220625'
+- expected_values:
+    A1_FLI: 38
+  response: '77E0462220626'
+- expected_values:
     A1_FLI: 39
   response: '77E0462220627'
 - expected_values:

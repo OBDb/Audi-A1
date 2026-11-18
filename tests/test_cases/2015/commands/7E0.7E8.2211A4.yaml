@@ -4,8 +4,8 @@ test_cases:
     A1_FUEL_PMP_CMD_DUTY: 3.99932
   response: 7E8056211A40A3D
 - expected_values:
-    A1_FUEL_PMP_CMD_DUTY: 31.52609
-  response: 7E8056211A450B5
+    A1_FUEL_PMP_CMD_DUTY: 30.07193
+  response: 7E8056211A44CFC
 - expected_values:
     A1_FUEL_PMP_CMD_DUTY: 38.30555
   response: 7E8056211A46210

@@ -4,8 +4,8 @@ test_cases:
     A1_STEER_WHL_TQ_SENS_2: 0.19185
   response: 77C06621806001E02
 - expected_values:
-    A1_STEER_WHL_TQ_SENS_2: 2.27947
-  response: 77C0662180601F902
+    A1_STEER_WHL_TQ_SENS_2: -3.32415
+  response: 77C06621806FCFE02
 - expected_values:
-    A1_STEER_WHL_TQ_SENS_2: -0.7267
-  response: 77C06621806FF4D02
+    A1_STEER_WHL_TQ_SENS_2: -0.92887
+  response: 77C06621806FF1F02

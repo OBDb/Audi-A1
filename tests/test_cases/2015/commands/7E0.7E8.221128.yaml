@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.221128
 test_cases:
 - expected_values:
+    A1_CAM_ADPT_EXH_BANK_1: 0
+  response: '7E8056211280000'
+- expected_values:
+    A1_CAM_ADPT_EXH_BANK_1: -0.98878
+  response: 7E805621128FFD3
+- expected_values:
+    A1_CAM_ADPT_EXH_BANK_1: -0.92287
+  response: 7E805621128FFD6
+- expected_values:
     A1_CAM_ADPT_EXH_BANK_1: -0.87892
   response: 7E805621128FFD8
 - expected_values:

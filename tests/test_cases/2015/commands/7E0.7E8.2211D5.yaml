@@ -4,8 +4,8 @@ test_cases:
     A1_HIGH_FUEL_P: 0
   response: 7E8056211D50000
 - expected_values:
-    A1_HIGH_FUEL_P: 0.0125
-  response: 7E8056211D50019
+    A1_HIGH_FUEL_P: 0.005
+  response: 7E8056211D5000A
 - expected_values:
     A1_HIGH_FUEL_P: -0.0405
   response: 7E8056211D5FFAF

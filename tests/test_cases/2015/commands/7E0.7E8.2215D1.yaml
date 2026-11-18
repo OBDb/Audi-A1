@@ -4,8 +4,8 @@ test_cases:
     A1_LATERAL_ACCEL_RAW: 0
   response: 7E8056215D10000
 - expected_values:
-    A1_LATERAL_ACCEL_RAW: 0.02
-  response: 7E8056215D10002
+    A1_LATERAL_ACCEL_RAW: -0.03
+  response: 7E8056215D1FFFD
 - expected_values:
     A1_LATERAL_ACCEL_RAW: -0.01
   response: 7E8056215D1FFFF

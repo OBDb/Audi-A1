@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2213A0
 test_cases:
 - expected_values:
-    A1_ECT_MODELED: 39.75
-  response: 7E8046213A075
+    A1_ECT_MODELED: 12
+  response: 7E8046213A050
 - expected_values:
-    A1_ECT_MODELED: 42
-  response: 7E8046213A078
+    A1_ECT_MODELED: 26.25
+  response: 7E8046213A063
 - expected_values:
     A1_ECT_MODELED: 60
   response: 7E8046213A090

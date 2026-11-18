@@ -4,8 +4,11 @@ test_cases:
     A1_EXH_CAM_ADPT_BIAS: 3.62554
   response: 7E80562174A00A5
 - expected_values:
-    A1_EXH_CAM_ADPT_BIAS: 5.25155
-  response: 7E80562174A00EF
+    A1_EXH_CAM_ADPT_BIAS: 5.55917
+  response: 7E80562174A00FD
 - expected_values:
     A1_EXH_CAM_ADPT_BIAS: 5.80087
   response: 7E80562174A0108
+- expected_values:
+    A1_EXH_CAM_ADPT_BIAS: 6.5919
+  response: 7E80562174A012C

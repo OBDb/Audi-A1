@@ -10,5 +10,5 @@ test_cases:
     A1_LONGITUDINAL_ACCEL: 0.75
   response: 7E8056215CF02EE
 - expected_values:
-    A1_LONGITUDINAL_ACCEL: -0.125
-  response: 7E8056215CFFF83
+    A1_LONGITUDINAL_ACCEL: -0.157
+  response: 7E8056215CFFF63
