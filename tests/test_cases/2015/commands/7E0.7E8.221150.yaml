@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     A1_MISFIRES_C3: 38385
   response: 7E80562115095F1
+- expected_values:
+    A1_MISFIRES_C3: 38386
+  response: 7E80562115095F2

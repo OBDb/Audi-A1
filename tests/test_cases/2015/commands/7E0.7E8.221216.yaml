@@ -10,5 +10,5 @@ test_cases:
     A1_REL_LOAD: 18.04904
   response: '7E8056212160302'
 - expected_values:
-    A1_REL_LOAD: 65.04685
-  response: 7E8056212160AD7
+    A1_REL_LOAD: 109.7944
+  response: 7E805621216124C

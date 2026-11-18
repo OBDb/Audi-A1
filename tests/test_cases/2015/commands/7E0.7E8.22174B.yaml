@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22174B
 test_cases:
 - expected_values:
-    A1_INT_CAM_ADPT_BIAS: 6.65782
-  response: 7E80562174B012F
+    A1_INT_CAM_ADPT_BIAS: 5.11971
+  response: 7E80562174B00E9
+- expected_values:
+    A1_INT_CAM_ADPT_BIAS: 5.49325
+  response: 7E80562174B00FA
+- expected_values:
+    A1_INT_CAM_ADPT_BIAS: 5.66903
+  response: 7E80562174B0102
 - expected_values:
     A1_INT_CAM_ADPT_BIAS: 6.72374
   response: 7E80562174B0132
-- expected_values:
-    A1_INT_CAM_ADPT_BIAS: 9.99772
-  response: 7E80562174B01C7

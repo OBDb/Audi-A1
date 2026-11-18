@@ -2,16 +2,13 @@ command_id: 7E0.7E8.221219
 test_cases:
 - expected_values:
     A1_BOOST_REGULATION_CMD: 100
-  response: 7E805621219130C
+  response: '7E8056212191367'
 - expected_values:
     A1_BOOST_REGULATION_CMD: 100
   response: 7E8056212191BEF
 - expected_values:
     A1_BOOST_REGULATION_CMD: 100
   response: 7E8056212191D00
-- expected_values:
-    A1_BOOST_REGULATION_CMD: 100
-  response: 7E8056212191D0E
 - expected_values:
     A1_BOOST_REGULATION_CMD: 100
   response: 7E8056212191E6A

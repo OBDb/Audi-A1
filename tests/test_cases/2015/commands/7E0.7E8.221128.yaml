@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     A1_CAM_ADPT_EXH_BANK_1: -0.87892
   response: 7E805621128FFD8
+- expected_values:
+    A1_CAM_ADPT_EXH_BANK_1: -0.50538
+  response: 7E805621128FFE9
+- expected_values:
+    A1_CAM_ADPT_EXH_BANK_1: -0.15381
+  response: 7E805621128FFF9

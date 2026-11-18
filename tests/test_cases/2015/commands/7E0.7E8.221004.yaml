@@ -10,5 +10,5 @@ test_cases:
     A1_AAT_V2: -1
   response: 7E805621004FF80
 - expected_values:
-    A1_AAT_V2: -0.09375
-  response: 7E805621004FFF4
+    A1_AAT_V2: -0.07031
+  response: 7E805621004FFF7

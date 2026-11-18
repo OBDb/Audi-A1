@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2215B9
 test_cases:
 - expected_values:
+    A1_OIL_LEVEL_AVG: 18.536
+  response: 7E8056215B9121A
+- expected_values:
     A1_OIL_LEVEL_AVG: 18.612
   response: 7E8056215B9122D
 - expected_values:

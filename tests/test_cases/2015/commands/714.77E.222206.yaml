@@ -1,11 +1,17 @@
 command_id: 714.77E.222206
 test_cases:
 - expected_values:
+    A1_FLI: 32
+  response: '77E0462220620'
+- expected_values:
     A1_FLI: 33
   response: '77E0462220621'
 - expected_values:
     A1_FLI: 34
   response: '77E0462220622'
+- expected_values:
+    A1_FLI: 36
+  response: '77E0462220624'
 - expected_values:
     A1_FLI: 39
   response: '77E0462220627'

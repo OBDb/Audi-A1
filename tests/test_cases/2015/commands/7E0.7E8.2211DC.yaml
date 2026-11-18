@@ -7,8 +7,8 @@ test_cases:
     A1_INT_MANIFOLD_P_RAW: 1.17188
   response: 7E8056211DC0F05
 - expected_values:
-    A1_INT_MANIFOLD_P_RAW: 2.26562
-  response: 7E8056211DC1DF2
+    A1_INT_MANIFOLD_P_RAW: 1.5625
+  response: 7E8056211DC14F8
 - expected_values:
     A1_INT_MANIFOLD_P_RAW: 3.90625
   response: 7E8056211DC3245

@@ -4,11 +4,11 @@ test_cases:
     A1_LOW_FUEL_P_CMD: 200
   response: 7E8056211CE07D0
 - expected_values:
-    A1_LOW_FUEL_P_CMD: 205.3
-  response: 7E8056211CE0805
-- expected_values:
     A1_LOW_FUEL_P_CMD: 230
   response: 7E8056211CE08FC
+- expected_values:
+    A1_LOW_FUEL_P_CMD: 333.2
+  response: 7E8056211CE0D04
 - expected_values:
     A1_LOW_FUEL_P_CMD: 361.4
   response: 7E8056211CE0E1E

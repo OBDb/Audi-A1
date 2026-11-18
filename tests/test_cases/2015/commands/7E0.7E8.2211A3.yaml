@@ -4,5 +4,8 @@ test_cases:
     A1_EA888B_BOOST_P_CMD: 0
   response: 7E8046211A300
 - expected_values:
+    A1_EA888B_BOOST_P_CMD: 63.92157
+  response: 7E8046211A3A3
+- expected_values:
     A1_EA888B_BOOST_P_CMD: 100
   response: 7E8046211A3FF

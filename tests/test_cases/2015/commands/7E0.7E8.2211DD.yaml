@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     A1_INT_MANIFOLD_P_CMD: 940.07812
   response: 7E8056211DD2F01
+- expected_values:
+    A1_INT_MANIFOLD_P_CMD: 1337.89062
+  response: 7E8056211DD42E5

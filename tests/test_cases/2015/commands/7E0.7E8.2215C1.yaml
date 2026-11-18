@@ -4,5 +4,5 @@ test_cases:
     A1_IAT_BEFORE_THROTTLE: 24.75
   response: 7E8046215C161
 - expected_values:
-    A1_IAT_BEFORE_THROTTLE: 54
-  response: 7E8046215C188
+    A1_IAT_BEFORE_THROTTLE: 56.25
+  response: 7E8046215C18B

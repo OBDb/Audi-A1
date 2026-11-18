@@ -7,5 +7,5 @@ test_cases:
     A1_ODO_7E0: 153674
   response: 7E8076210E00002584A
 - expected_values:
-    A1_ODO_7E0: 153677
-  response: 7E8076210E00002584D
+    A1_ODO_7E0: 153681
+  response: 7E8076210E000025851
