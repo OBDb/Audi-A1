@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221124
 test_cases:
 - expected_values:
-    A1_CAM_SPD: 225.25
-  response: '7E8056211240385'
+    A1_CAM_SPD: 174.25
+  response: 7E80562112402B9
 - expected_values:
     A1_CAM_SPD: 389
   response: '7E8056211240614'
 - expected_values:
-    A1_CAM_SPD: 1021.25
-  response: 7E8056211240FF5
+    A1_CAM_SPD: 446.75
+  response: 7E80562112406FB
 - expected_values:
     A1_CAM_SPD: 1436.5
   response: '7E8056211241672'

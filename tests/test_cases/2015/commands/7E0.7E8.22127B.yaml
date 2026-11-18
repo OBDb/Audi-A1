@@ -7,8 +7,8 @@ test_cases:
     A1_CAM_ADJ_EXH: 27.50439
   response: 7E80562127B4669
 - expected_values:
-    A1_CAM_ADJ_EXH: 31.6289
-  response: 7E80562127B50F8
+    A1_CAM_ADJ_EXH: 29.6788
+  response: 7E80562127B4BFA
 - expected_values:
     A1_CAM_ADJ_EXH: 45.21248
   response: 7E80562127B73BE

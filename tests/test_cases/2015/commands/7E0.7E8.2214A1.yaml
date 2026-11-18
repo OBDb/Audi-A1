@@ -4,14 +4,14 @@ test_cases:
     A1_RATED_DRIVE_TQ: 61.8
   response: 7E8076214A10000026A
 - expected_values:
-    A1_RATED_DRIVE_TQ: 103.2
-  response: 7E8076214A100000408
-- expected_values:
     A1_RATED_DRIVE_TQ: 665
   response: 7E8076214A1000019FA
 - expected_values:
-    A1_RATED_DRIVE_TQ: -270.4
-  response: 7E8076214A1FFFFF570
+    A1_RATED_DRIVE_TQ: -277.2
+  response: 7E8076214A1FFFFF52C
+- expected_values:
+    A1_RATED_DRIVE_TQ: -204.4
+  response: 7E8076214A1FFFFF804
 - expected_values:
     A1_RATED_DRIVE_TQ: -74.8
   response: 7E8076214A1FFFFFD14

@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.2211DD
 test_cases:
 - expected_values:
-    A1_INT_MANIFOLD_P_CMD: 217.42188
-  response: 7E8056211DD0ADF
-- expected_values:
-    A1_INT_MANIFOLD_P_CMD: 236.09375
-  response: 7E8056211DD0BCE
+    A1_INT_MANIFOLD_P_CMD: 204.6875
+  response: 7E8056211DD0A3C
 - expected_values:
     A1_INT_MANIFOLD_P_CMD: 339.45312
   response: 7E8056211DD10F9

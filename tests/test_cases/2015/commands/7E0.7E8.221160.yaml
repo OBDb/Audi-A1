@@ -7,8 +7,8 @@ test_cases:
     A1_ODO_HD: 152933.12
   response: 7E807621160091D9300
 - expected_values:
-    A1_ODO_HD: 152938.469
-  response: 7E807621160091DA7E5
+    A1_ODO_HD: 152944.892
+  response: 7E807621160091DC0FC
 - expected_values:
-    A1_ODO_HD: 152939.968
-  response: 7E807621160091DADC0
+    A1_ODO_HD: 152945.587
+  response: 7E807621160091DC3B3

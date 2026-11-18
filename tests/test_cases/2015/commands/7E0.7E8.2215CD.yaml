@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2215CD
 test_cases:
 - expected_values:
-    A1_ECT_RADIATOR_OUTLET_V_1: 28.3
-  response: 7E8056215CD0BC6
+    A1_ECT_RADIATOR_OUTLET_V_1: 13.1
+  response: 7E8056215CD0B2E
 - expected_values:
     A1_ECT_RADIATOR_OUTLET_V_1: 34
   response: 7E8056215CD0BFF

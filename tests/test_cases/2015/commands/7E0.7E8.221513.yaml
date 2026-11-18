@@ -1,14 +1,17 @@
 command_id: 7E0.7E8.221513
 test_cases:
 - expected_values:
+    A1_ECT_LINEAR: 32.46128
+  response: 7E8056215136B48
+- expected_values:
     A1_ECT_LINEAR: 67.55323
   response: 7E8056215139A12
 - expected_values:
-    A1_ECT_LINEAR: 93.0006
-  response: 7E805621513BC00
+    A1_ECT_LINEAR: 71.12746
+  response: 7E8056215139ED6
 - expected_values:
-    A1_ECT_LINEAR: 96.49866
-  response: 7E805621513C0AA
+    A1_ECT_LINEAR: 80.25055
+  response: 7E805621513AB00
 - expected_values:
     A1_ECT_LINEAR: 98.25062
   response: 7E805621513C300

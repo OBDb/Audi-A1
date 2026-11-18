@@ -1,14 +1,8 @@
 command_id: 7E0.7E8.22171C
 test_cases:
 - expected_values:
-    A1_BASIC_CORR_FACTOR_4: 0.97462
-  response: 7E80562171C1F31
-- expected_values:
-    A1_BASIC_CORR_FACTOR_4: 0.97475
-  response: 7E80562171C1F32
-- expected_values:
-    A1_BASIC_CORR_FACTOR_4: 0.97487
-  response: 7E80562171C1F33
+    A1_BASIC_CORR_FACTOR_4: 0.97438
+  response: 7E80562171C1F2F
 - expected_values:
     A1_BASIC_CORR_FACTOR_4: 0.97499
   response: 7E80562171C1F34

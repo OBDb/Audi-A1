@@ -4,14 +4,5 @@ test_cases:
     A1_AIR_LEAKAGE: 1.9
   response: 7E8056211B80013
 - expected_values:
-    A1_AIR_LEAKAGE: 2
-  response: 7E8056211B80014
-- expected_values:
-    A1_AIR_LEAKAGE: 2.1
-  response: 7E8056211B80015
-- expected_values:
-    A1_AIR_LEAKAGE: 2.2
-  response: 7E8056211B80016
-- expected_values:
-    A1_AIR_LEAKAGE: 2.3
-  response: 7E8056211B80017
+    A1_AIR_LEAKAGE: 2.6
+  response: 7E8056211B8001A

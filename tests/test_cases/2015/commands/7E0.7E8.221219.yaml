@@ -5,7 +5,7 @@ test_cases:
   response: '7E8056212191367'
 - expected_values:
     A1_BOOST_REGULATION_CMD: 100
-  response: 7E8056212191BEF
+  response: 7E80562121915F7
 - expected_values:
     A1_BOOST_REGULATION_CMD: 100
   response: 7E8056212191D00
