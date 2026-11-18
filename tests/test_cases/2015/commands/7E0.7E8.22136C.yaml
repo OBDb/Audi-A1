@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22136C
 test_cases:
 - expected_values:
+    A1_CAM_ADJ_EXH_BANK_1_ACT: 16.744
+  response: 7E80562136C082D
+- expected_values:
     A1_CAM_ADJ_EXH_BANK_1_ACT: -23.712
   response: 7E80562136CF46C
 - expected_values:
@@ -9,3 +12,6 @@ test_cases:
 - expected_values:
     A1_CAM_ADJ_EXH_BANK_1_ACT: -4.496
   response: 7E80562136CFDCE
+- expected_values:
+    A1_CAM_ADJ_EXH_BANK_1_ACT: -4.232
+  response: 7E80562136CFDEF

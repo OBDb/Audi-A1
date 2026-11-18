@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221490
 test_cases:
 - expected_values:
-    A1_BRAKE_BOOSTER_ACT: 627.96071
-  response: 7E8056214903ECC
+    A1_BRAKE_BOOSTER_ACT: 575.96919
+  response: '7E8056214903999'
 - expected_values:
     A1_BRAKE_BOOSTER_ACT: 659.95249
   response: 7E80562149041FF

@@ -4,11 +4,11 @@ test_cases:
     A1_ENG_TQ: 0
   response: '7E8056210100000'
 - expected_values:
-    A1_ENG_TQ: 19.1
-  response: 7E80562101000BF
+    A1_ENG_TQ: 14.2
+  response: 7E805621010008E
 - expected_values:
     A1_ENG_TQ: 76.4
   response: 7E80562101002FC
 - expected_values:
-    A1_ENG_TQ: 125.9
-  response: 7E80562101004EB
+    A1_ENG_TQ: 113.7
+  response: '7E8056210100471'

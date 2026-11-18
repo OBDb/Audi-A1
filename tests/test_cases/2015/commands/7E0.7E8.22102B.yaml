@@ -10,5 +10,5 @@ test_cases:
     A1_ACCEL_PEDAL_SENS_2_V: 771.6
   response: 7E80562102B0F12
 - expected_values:
-    A1_ACCEL_PEDAL_SENS_2_V: 835
-  response: 7E80562102B104F
+    A1_ACCEL_PEDAL_SENS_2_V: 1170.8
+  response: 7E80562102B16DE

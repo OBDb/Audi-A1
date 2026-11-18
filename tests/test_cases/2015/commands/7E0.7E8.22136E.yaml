@@ -10,5 +10,5 @@ test_cases:
     A1_CAM_ADJ_INT_BANK_1_ACT: 22
   response: 7E80562136E0B00
 - expected_values:
-    A1_CAM_ADJ_INT_BANK_1_ACT: -7.33594
-  response: 7E80562136EFC55
+    A1_CAM_ADJ_INT_BANK_1_ACT: -2.60938
+  response: 7E80562136EFEB2

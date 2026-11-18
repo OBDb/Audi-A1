@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211E0
 test_cases:
 - expected_values:
-    A1_CMD_CRANK_TQ: 8.5
-  response: 7E8056211E00055
-- expected_values:
     A1_CMD_CRANK_TQ: 20.7
   response: 7E8056211E000CF
 - expected_values:
     A1_CMD_CRANK_TQ: 22.3
   response: 7E8056211E000DF
+- expected_values:
+    A1_CMD_CRANK_TQ: 78.1
+  response: 7E8056211E0030D
 - expected_values:
     A1_CMD_CRANK_TQ: -13.3
   response: 7E8056211E0FF7B

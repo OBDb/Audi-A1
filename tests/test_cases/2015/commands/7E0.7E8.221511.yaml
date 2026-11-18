@@ -4,17 +4,5 @@ test_cases:
     A1_ECT_MAX: 67.5
   response: 7E8046215119A
 - expected_values:
-    A1_ECT_MAX: 78
-  response: 7E804621511A8
-- expected_values:
-    A1_ECT_MAX: 83.25
-  response: 7E804621511AF
-- expected_values:
-    A1_ECT_MAX: 96
-  response: 7E804621511C0
-- expected_values:
-    A1_ECT_MAX: 98.25
-  response: 7E804621511C3
-- expected_values:
     A1_ECT_MAX: 99.75
   response: 7E804621511C5

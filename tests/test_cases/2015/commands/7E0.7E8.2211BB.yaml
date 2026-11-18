@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A1_OIL_CRIT: 5
   response: 7E8056211BB30D4
+- expected_values:
+    A1_OIL_CRIT: 5.0636
+  response: 7E8056211BB3173

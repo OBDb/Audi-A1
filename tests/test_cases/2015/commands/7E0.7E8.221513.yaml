@@ -7,8 +7,8 @@ test_cases:
     A1_ECT_LINEAR: 93.0006
   response: 7E805621513BC00
 - expected_values:
-    A1_ECT_LINEAR: 97.24867
-  response: 7E805621513C1AA
+    A1_ECT_LINEAR: 96.49866
+  response: 7E805621513C0AA
 - expected_values:
     A1_ECT_LINEAR: 98.25062
   response: 7E805621513C300

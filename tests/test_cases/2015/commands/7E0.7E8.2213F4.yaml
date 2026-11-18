@@ -4,23 +4,11 @@ test_cases:
     A1_IGA_CYL_KNK_2: -0.375
   response: 7E8056213F47FB8
 - expected_values:
-    A1_IGA_CYL_KNK_2: -0.375
-  response: 7E8056213F47FC9
-- expected_values:
-    A1_IGA_CYL_KNK_2: -0.375
-  response: 7E8056213F47FDA
-- expected_values:
-    A1_IGA_CYL_KNK_2: 1.5
-  response: 7E8056213F4841F
-- expected_values:
     A1_IGA_CYL_KNK_2: 1.5
   response: 7E8056213F484D2
 - expected_values:
+    A1_IGA_CYL_KNK_2: 1.5
+  response: 7E8056213F484F6
+- expected_values:
     A1_IGA_CYL_KNK_2: 1.875
   response: 7E8056213F4851E
-- expected_values:
-    A1_IGA_CYL_KNK_2: 1.875
-  response: 7E8056213F48526
-- expected_values:
-    A1_IGA_CYL_KNK_2: 1.875
-  response: 7E8056213F48529

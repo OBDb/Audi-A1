@@ -7,5 +7,5 @@ test_cases:
     A1_ECT_MODELED: 42
   response: 7E8046213A078
 - expected_values:
-    A1_ECT_MODELED: 57
-  response: 7E8046213A08C
+    A1_ECT_MODELED: 60
+  response: 7E8046213A090

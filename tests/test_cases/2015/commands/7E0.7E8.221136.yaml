@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221136
 test_cases:
 - expected_values:
-    A1_HEIGHT_CORR: 0.9685
-  response: 7E8056211363DFC
+    A1_HEIGHT_CORR: 0.96667
+  response: 7E8056211363DDE
 - expected_values:
     A1_HEIGHT_CORR: 0.96868
   response: 7E8056211363DFF

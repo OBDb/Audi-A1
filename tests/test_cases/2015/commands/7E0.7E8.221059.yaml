@@ -7,5 +7,5 @@ test_cases:
     A1_ACCEL_PEDAL_TQ_LIM: 25.2
   response: 7E80562105900FC
 - expected_values:
-    A1_ACCEL_PEDAL_TQ_LIM: 92.3
-  response: 7E805621059039B
+    A1_ACCEL_PEDAL_TQ_LIM: 168
+  response: '7E8056210590690'

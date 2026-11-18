@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22113A
 test_cases:
 - expected_values:
-    A1_LONG_TERM_THROTTLE: 1.03479
-  response: 7E80562113A423A
+    A1_LONG_TERM_THROTTLE: 1.03302
+  response: 7E80562113A421D
 - expected_values:
     A1_LONG_TERM_THROTTLE: 1.03644
   response: 7E80562113A4255
