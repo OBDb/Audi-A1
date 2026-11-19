@@ -4,8 +4,8 @@ test_cases:
     A1_OIL_LEVEL: 5.9736
   response: 7E8056211BA3A56
 - expected_values:
-    A1_OIL_LEVEL: 6.4868
-  response: 7E8056211BA3F59
+    A1_OIL_LEVEL: 6.38
+  response: 7E8056211BA3E4E
 - expected_values:
     A1_OIL_LEVEL: 6.86
   response: 7E8056211BA42FE
@@ -13,5 +13,5 @@ test_cases:
     A1_OIL_LEVEL: 7.0668
   response: 7E8056211BA4503
 - expected_values:
-    A1_OIL_LEVEL: 7.6268
-  response: 7E8056211BA4A7B
+    A1_OIL_LEVEL: 7.76
+  response: 7E8056211BA4BC8

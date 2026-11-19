@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211F0
 test_cases:
 - expected_values:
-    A1_ACT_TURBO_BOOST: 98.14062
-  response: 7E8056211F03112
+    A1_ACT_TURBO_BOOST: 97.78906
+  response: 7E8056211F030E5
 - expected_values:
-    A1_ACT_TURBO_BOOST: 98.39844
-  response: 7E8056211F03133
+    A1_ACT_TURBO_BOOST: 100.00781
+  response: 7E8056211F03201
 - expected_values:
     A1_ACT_TURBO_BOOST: 105.97656
   response: 7E8056211F034FD
 - expected_values:
-    A1_ACT_TURBO_BOOST: 116.89062
-  response: 7E8056211F03A72
+    A1_ACT_TURBO_BOOST: 122.27344
+  response: 7E8056211F03D23

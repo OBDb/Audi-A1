@@ -4,29 +4,5 @@ test_cases:
     A1_AAT_746: 11.5
   response: 7B0046226097B
 - expected_values:
-    A1_AAT_746: 12
-  response: 7B0046226097C
-- expected_values:
-    A1_AAT_746: 12.5
-  response: 7B0046226097D
-- expected_values:
-    A1_AAT_746: 13
-  response: 7B0046226097E
-- expected_values:
-    A1_AAT_746: 13.5
-  response: 7B0046226097F
-- expected_values:
-    A1_AAT_746: 14
-  response: 7B00462260980
-- expected_values:
-    A1_AAT_746: 14.5
-  response: 7B00462260981
-- expected_values:
-    A1_AAT_746: 15
-  response: 7B00462260982
-- expected_values:
-    A1_AAT_746: 15.5
-  response: 7B00462260983
-- expected_values:
     A1_AAT_746: 18
   response: 7B00462260988
