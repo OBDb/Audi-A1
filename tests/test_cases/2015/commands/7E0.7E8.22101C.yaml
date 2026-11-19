@@ -7,8 +7,8 @@ test_cases:
     A1_ALTERNATOR_LOAD: 19.35
   response: 7E80562101C078F
 - expected_values:
-    A1_ALTERNATOR_LOAD: 48.34
-  response: 7E80562101C12E2
+    A1_ALTERNATOR_LOAD: 61.23
+  response: 7E80562101C17EB
 - expected_values:
     A1_ALTERNATOR_LOAD: 67.68
   response: 7E80562101C1A70

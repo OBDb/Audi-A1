@@ -6,9 +6,3 @@ test_cases:
 - expected_values:
     A1_MISFIRES_C1: 41071
   response: 7E80562114FA06F
-- expected_values:
-    A1_MISFIRES_C1: 41072
-  response: 7E80562114FA070
-- expected_values:
-    A1_MISFIRES_C1: 41073
-  response: 7E80562114FA071

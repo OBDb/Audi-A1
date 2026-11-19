@@ -7,17 +7,5 @@ test_cases:
     A1_MISFIRES__CYL__4: 34375
   response: '7E8056211518647'
 - expected_values:
-    A1_MISFIRES__CYL__4: 34376
-  response: '7E8056211518648'
-- expected_values:
-    A1_MISFIRES__CYL__4: 34377
-  response: '7E8056211518649'
-- expected_values:
-    A1_MISFIRES__CYL__4: 34378
-  response: 7E805621151864A
-- expected_values:
-    A1_MISFIRES__CYL__4: 34379
-  response: 7E805621151864B
-- expected_values:
-    A1_MISFIRES__CYL__4: 34380
-  response: 7E805621151864C
+    A1_MISFIRES__CYL__4: 34383
+  response: 7E805621151864F

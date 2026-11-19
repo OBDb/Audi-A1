@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     A1_CLT_FAN_1_CMD_DUTY: 13.28
   response: '7E8056211300530'
+- expected_values:
+    A1_CLT_FAN_1_CMD_DUTY: 16.41
+  response: '7E8056211300669'
