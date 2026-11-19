@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2215B7
 test_cases:
 - expected_values:
-    A1_ENG_OIL_SUMP_T: 54.8
-  response: 7E8056215B70B2C
+    A1_ENG_OIL_SUMP_T: -58.42
+  response: 7E8056215B708B7
+- expected_values:
+    A1_ENG_OIL_SUMP_T: 51.38
+  response: 7E8056215B70B19
 - expected_values:
     A1_ENG_OIL_SUMP_T: 92.78
   response: 7E8056215B70BFF
 - expected_values:
     A1_ENG_OIL_SUMP_T: 185.48
   response: 7E8056215B70E02
-- expected_values:
-    A1_ENG_OIL_SUMP_T: 189.26
-  response: 7E8056215B70E17
