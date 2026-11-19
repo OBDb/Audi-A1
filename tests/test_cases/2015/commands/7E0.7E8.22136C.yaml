@@ -7,11 +7,11 @@ test_cases:
     A1_CAM_ADJ_EXH_BANK_1_ACT: -23.712
   response: 7E80562136CF46C
 - expected_values:
+    A1_CAM_ADJ_EXH_BANK_1_ACT: -22.608
+  response: 7E80562136CF4F6
+- expected_values:
     A1_CAM_ADJ_EXH_BANK_1_ACT: -8.08
   response: 7E80562136CFC0E
-- expected_values:
-    A1_CAM_ADJ_EXH_BANK_1_ACT: -4.232
-  response: 7E80562136CFDEF
 - expected_values:
     A1_CAM_ADJ_EXH_BANK_1_ACT: -3.376
   response: 7E80562136CFE5A

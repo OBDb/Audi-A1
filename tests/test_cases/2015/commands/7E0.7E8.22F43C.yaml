@@ -4,11 +4,11 @@ test_cases:
     A1_EXH_GAS_T: 87.1
   response: 7E80562F43C04F7
 - expected_values:
-    A1_EXH_GAS_T: 446.7
-  response: 7E80562F43C1303
-- expected_values:
     A1_EXH_GAS_T: 471.7
   response: 7E80562F43C13FD
+- expected_values:
+    A1_EXH_GAS_T: 497.7
+  response: 7E80562F43C1501
 - expected_values:
     A1_EXH_GAS_T: 690.1
   response: 7E80562F43C1C85

@@ -7,8 +7,8 @@ test_cases:
     A1_CAM_SPD: 389
   response: '7E8056211240614'
 - expected_values:
-    A1_CAM_SPD: 446.75
-  response: 7E80562112406FB
+    A1_CAM_SPD: 767.25
+  response: 7E8056211240BFD
 - expected_values:
     A1_CAM_SPD: 1436.5
   response: '7E8056211241672'

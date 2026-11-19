@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A1_FUEL_AVG: 7.6
   response: 77E05622299004C
+- expected_values:
+    A1_FUEL_AVG: 9.3
+  response: 77E05622299005D
