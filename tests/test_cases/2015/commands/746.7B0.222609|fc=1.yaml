@@ -22,5 +22,11 @@ test_cases:
     A1_AAT_746: 14.5
   response: 7B00462260981
 - expected_values:
+    A1_AAT_746: 15
+  response: 7B00462260982
+- expected_values:
+    A1_AAT_746: 15.5
+  response: 7B00462260983
+- expected_values:
     A1_AAT_746: 18
   response: 7B00462260988
