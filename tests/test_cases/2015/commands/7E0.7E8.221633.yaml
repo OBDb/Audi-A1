@@ -4,11 +4,11 @@ test_cases:
     A1_LONGITUDINAL_ACCEL_7E0: 0
   response: '7E8056216330000'
 - expected_values:
-    A1_LONGITUDINAL_ACCEL_7E0: 0.503
-  response: 7E80562163301F7
+    A1_LONGITUDINAL_ACCEL_7E0: 0.004
+  response: '7E8056216330004'
+- expected_values:
+    A1_LONGITUDINAL_ACCEL_7E0: 0.766
+  response: 7E80562163302FE
 - expected_values:
     A1_LONGITUDINAL_ACCEL_7E0: -0.171
   response: 7E805621633FF55
-- expected_values:
-    A1_LONGITUDINAL_ACCEL_7E0: -0.003
-  response: 7E805621633FFFD

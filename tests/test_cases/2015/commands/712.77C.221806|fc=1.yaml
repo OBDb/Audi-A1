@@ -1,6 +1,9 @@
 command_id: 712.77C.221806|fc=1
 test_cases:
 - expected_values:
+    A1_STEER_WHL_TQ_SENS_2: 0.06
+  response: 77C06621806000000
+- expected_values:
     A1_STEER_WHL_TQ_SENS_2: 0.19185
   response: 77C06621806001E02
 - expected_values:

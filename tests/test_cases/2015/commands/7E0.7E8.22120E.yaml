@@ -4,11 +4,11 @@ test_cases:
     A1_KNOCK_SENS_CYL_1: 0.99889
   response: 7E80562120E00CE
 - expected_values:
-    A1_KNOCK_SENS_CYL_1: 1.17346
-  response: 7E80562120E00F2
+    A1_KNOCK_SENS_CYL_1: 1.28013
+  response: 7E80562120E0108
 - expected_values:
-    A1_KNOCK_SENS_CYL_1: 1.28498
-  response: 7E80562120E0109
+    A1_KNOCK_SENS_CYL_1: 2.4245
+  response: 7E80562120E01F4
 - expected_values:
-    A1_KNOCK_SENS_CYL_1: 6.63342
-  response: 7E80562120E0558
+    A1_KNOCK_SENS_CYL_1: 6.60918
+  response: 7E80562120E0553

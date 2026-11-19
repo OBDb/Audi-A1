@@ -13,5 +13,5 @@ test_cases:
     A1_BRAKE_BOOSTER_RAW_P: 6909
   response: 7E8056211D11AFD
 - expected_values:
-    A1_BRAKE_BOOSTER_RAW_P: 10884
-  response: 7E8056211D12A84
+    A1_BRAKE_BOOSTER_RAW_P: 13375
+  response: 7E8056211D1343F

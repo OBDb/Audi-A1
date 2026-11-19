@@ -7,8 +7,8 @@ test_cases:
     A1_ENG_OIL_SUMP_T: 92.78
   response: 7E8056215B70BFF
 - expected_values:
-    A1_ENG_OIL_SUMP_T: 139.58
-  response: 7E8056215B70D03
+    A1_ENG_OIL_SUMP_T: 185.48
+  response: 7E8056215B70E02
 - expected_values:
-    A1_ENG_OIL_SUMP_T: 190.52
-  response: 7E8056215B70E1E
+    A1_ENG_OIL_SUMP_T: 189.26
+  response: 7E8056215B70E17
