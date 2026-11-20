@@ -4,8 +4,8 @@ test_cases:
     A1_HIGH_FUEL_P_ACT: 13.9205
   response: 7E80562159F6CC1
 - expected_values:
-    A1_HIGH_FUEL_P_ACT: 13.99
-  response: 7E80562159F6D4C
+    A1_HIGH_FUEL_P_ACT: 13.9785
+  response: 7E80562159F6D35
 - expected_values:
     A1_HIGH_FUEL_P_ACT: 14.336
   response: 7E80562159F7000
