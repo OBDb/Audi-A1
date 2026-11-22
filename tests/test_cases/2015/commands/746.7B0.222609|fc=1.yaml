@@ -1,8 +1,8 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
-    A1_AAT_746: 11
-  response: 7B0046226097A
+    A1_AAT_746: 7.5
+  response: 7B00462260973
 - expected_values:
     A1_AAT_746: 18
   response: 7B00462260988
