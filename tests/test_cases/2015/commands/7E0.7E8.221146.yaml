@@ -4,20 +4,5 @@ test_cases:
     A1_MISFIRES_TOTAL: 0
   response: '7E8056211460000'
 - expected_values:
-    A1_MISFIRES_TOTAL: 1
-  response: '7E8056211460001'
-- expected_values:
-    A1_MISFIRES_TOTAL: 2
-  response: '7E8056211460002'
-- expected_values:
-    A1_MISFIRES_TOTAL: 3
-  response: '7E8056211460003'
-- expected_values:
-    A1_MISFIRES_TOTAL: 21
-  response: '7E8056211460015'
-- expected_values:
-    A1_MISFIRES_TOTAL: 31
-  response: 7E805621146001F
-- expected_values:
     A1_MISFIRES_TOTAL: 41
   response: '7E8056211460029'

@@ -7,5 +7,5 @@ test_cases:
     A1_ENG_TQ: 25.5
   response: 7E80562101000FF
 - expected_values:
-    A1_ENG_TQ: 161.7
-  response: '7E8056210100651'
+    A1_ENG_TQ: 155.2
+  response: '7E8056210100610'

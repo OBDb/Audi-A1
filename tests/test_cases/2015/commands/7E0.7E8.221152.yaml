@@ -4,5 +4,5 @@ test_cases:
     A1_MISFIRES__CYL__2: 45512
   response: 7E805621152B1C8
 - expected_values:
-    A1_MISFIRES__CYL__2: 45550
-  response: 7E805621152B1EE
+    A1_MISFIRES__CYL__2: 45558
+  response: 7E805621152B1F6
