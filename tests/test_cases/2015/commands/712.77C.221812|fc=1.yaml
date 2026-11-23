@@ -1,8 +1,8 @@
 command_id: 712.77C.221812|fc=1
 test_cases:
 - expected_values:
-    A1_STEER_WHEEL_ANGLE: -749.75
-  response: 77C06621812000201
+    A1_STEER_WHEEL_ANGLE: -750
+  response: 77C06621812000001
 - expected_values:
     A1_STEER_WHEEL_ANGLE: 780
   response: 77C06621812FF0B01
