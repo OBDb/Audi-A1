@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     A1_CLIMATE_RAD_FAN_CMD_DUTY: 0
   response: 7B00462260700
+- expected_values:
+    A1_CLIMATE_RAD_FAN_CMD_DUTY: 0.8
+  response: 7B00462260702
+- expected_values:
+    A1_CLIMATE_RAD_FAN_CMD_DUTY: 2.8
+  response: 7B00462260707
