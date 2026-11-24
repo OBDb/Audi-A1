@@ -10,6 +10,9 @@ test_cases:
     A1_MISFIRES_1000REV_C1: 2
   response: '7E8056211470002'
 - expected_values:
+    A1_MISFIRES_1000REV_C1: 3
+  response: '7E8056211470003'
+- expected_values:
     A1_MISFIRES_1000REV_C1: 4
   response: '7E8056211470004'
 - expected_values:
