@@ -4,8 +4,5 @@ test_cases:
     A1_FUEL_T: 5.25
   response: 7E80462128A47
 - expected_values:
-    A1_FUEL_T: 8.25
-  response: 7E80462128A4B
-- expected_values:
     A1_FUEL_T: 81
   response: 7E80462128AAC

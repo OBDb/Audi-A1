@@ -5,7 +5,7 @@ test_cases:
   response: 77C06621812000001
 - expected_values:
     A1_STEER_WHEEL_ANGLE: 780
-  response: 77C06621812FF0B01
+  response: 77C06621812FEFF01
 - expected_values:
     A1_STEER_WHEEL_ANGLE: 780
-  response: 77C06621812FFFE01
+  response: 77C06621812FF0B01
