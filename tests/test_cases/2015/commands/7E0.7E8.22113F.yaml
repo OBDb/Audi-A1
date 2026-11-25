@@ -7,5 +7,5 @@ test_cases:
     A1_FUEL_RATE: 2.54
   response: 7E80562113F00FE
 - expected_values:
-    A1_FUEL_RATE: 10.39
-  response: 7E80562113F040F
+    A1_FUEL_RATE: 10.84
+  response: 7E80562113F043C
