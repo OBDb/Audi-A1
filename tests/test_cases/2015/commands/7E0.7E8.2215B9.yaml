@@ -4,5 +4,5 @@ test_cases:
     A1_OIL_LEVEL_AVG: 18.476
   response: 7E8056215B9120B
 - expected_values:
-    A1_OIL_LEVEL_AVG: 18.816
-  response: 7E8056215B91260
+    A1_OIL_LEVEL_AVG: 18.84
+  response: 7E8056215B91266
