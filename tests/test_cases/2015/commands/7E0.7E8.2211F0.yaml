@@ -7,8 +7,8 @@ test_cases:
     A1_ACT_TURBO_BOOST: 100.00781
   response: 7E8056211F03201
 - expected_values:
-    A1_ACT_TURBO_BOOST: 105.97656
-  response: 7E8056211F034FD
+    A1_ACT_TURBO_BOOST: 103.98438
+  response: 7E8056211F033FE
 - expected_values:
     A1_ACT_TURBO_BOOST: 122.14062
   response: 7E8056211F03D12
