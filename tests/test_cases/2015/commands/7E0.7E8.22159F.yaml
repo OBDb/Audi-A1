@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22159F
 test_cases:
 - expected_values:
-    A1_HIGH_FUEL_P_ACT: 13.8115
-  response: 7E80562159F6BE7
+    A1_HIGH_FUEL_P_ACT: 13.6375
+  response: 7E80562159F6A8B
 - expected_values:
     A1_HIGH_FUEL_P_ACT: 13.8265
   response: 7E80562159F6C05
